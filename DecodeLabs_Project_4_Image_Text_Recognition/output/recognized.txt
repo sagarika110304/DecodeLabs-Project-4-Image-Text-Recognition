@@ -1,0 +1,4 @@
+DecodeLabs Project 4
+Optical Character Recognition
+Al Training 2026
+Confidence Test 80%
